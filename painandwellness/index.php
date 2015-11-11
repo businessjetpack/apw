@@ -883,7 +883,7 @@
 				</div><!-- /.form-row -->
 				<div class="form-row">
 					<div id='field_1_6' class='gfield gfield_contains_required field_sublabel_below field_description_below' >
-						<label class='gfield_label'>Are You a New Patients? (required)<span class='gfield_required'>*</span></label>
+						<label class='gfield_label'>Are You a New Patient? (required)<span class='gfield_required'>*</span></label>
 						<div class='ginput_container'>
 							<ul class='gfield_checkbox' id='input_1_6'>
 								<li class='gchoice_1_6_1'>
